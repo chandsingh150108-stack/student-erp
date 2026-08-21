@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student ERP
 
 A full-stack college management and student information system built with Java Spring Boot, MySQL, and React.
