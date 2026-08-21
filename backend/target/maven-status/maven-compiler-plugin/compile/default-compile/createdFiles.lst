@@ -1,0 +1,12 @@
+com\studenterp\entity\Faculty.class
+com\studenterp\entity\Timetable.class
+com\studenterp\entity\Course.class
+com\studenterp\entity\AcademicYear.class
+com\studenterp\entity\Program.class
+com\studenterp\entity\Room.class
+com\studenterp\entity\TimeSlot.class
+com\studenterp\entity\Section.class
+com\studenterp\entity\Semester.class
+com\studenterp\entity\Department.class
+com\studenterp\entity\Student.class
+com\studenterp\entity\User.class
