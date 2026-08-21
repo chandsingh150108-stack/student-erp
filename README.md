@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student ERP
 
 A full-stack college management and student information system built with Java Spring Boot, MySQL, and React.
@@ -161,3 +162,6 @@ Configured in `docker-compose.yml`:
 | `SPRING_DATASOURCE_PASSWORD` | (set in compose)         | DB password           |
 
 
+=======
+# student-erp
+>>>>>>> aa3cd588c78785fa2d7a6bc151390042eef471da
