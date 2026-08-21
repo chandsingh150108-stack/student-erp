@@ -163,5 +163,4 @@ Configured in `docker-compose.yml`:
 
 
 =======
-# student-erp
->>>>>>> aa3cd588c78785fa2d7a6bc151390042eef471da
+
